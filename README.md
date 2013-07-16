@@ -5,6 +5,6 @@ sdlquake-autoclean.sh is a Bash script that performs several cleaning tasks to t
 (http://www.libsdl.org/projects/quake). Once executed, we can develop on it normally without suffering strange errors 
 occasioned by obsolete stuff. 
 
-# Instalation
+### Instalation
 
 Put the sdlquake-autoclean script file inside SDL Quake source folder and run it. That's all.  

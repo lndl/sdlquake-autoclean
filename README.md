@@ -1,0 +1,2 @@
+sdlquake-autoclean
+==================

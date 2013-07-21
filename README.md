@@ -7,4 +7,4 @@ occasioned by obsolete stuff.
 
 ### Instalation
 
-Put the sdlquake-autoclean script file inside SDL Quake source folder and run it. That's all.  
+Put the sdlquake-autoclean script file into SDL Quake source folder and run it. That's all.  
